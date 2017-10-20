@@ -1,6 +1,6 @@
 //ChatRoom.ts
 
-import {Message} from "./Messages.interface";
+import { Message } from "./Messages.interface";
 
 export class ChatRoom {
 
